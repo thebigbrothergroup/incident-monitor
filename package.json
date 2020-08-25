@@ -1,0 +1,25 @@
+{
+  "name": "incident-monitor",
+  "version": "0.0.1",
+  "description": "A system to monitor for services that are offline and execute actions based off of them. ",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebigbrothergroup/incident-monitor.git"
+  },
+  "author": "The Big Brother Group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebigbrothergroup/incident-monitor/issues"
+  },
+  "homepage": "https://github.com/thebigbrothergroup/incident-monitor#readme",
+  "dependencies": {
+    "signale": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/signale": "^1.4.1"
+  }
+}
