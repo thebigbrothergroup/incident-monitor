@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/thebigbrothergroup/incident-monitor#readme",
   "dependencies": {
+    "axios": "^0.20.0",
     "signale": "^1.4.0"
   },
   "devDependencies": {
